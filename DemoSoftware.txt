@@ -1,0 +1,13 @@
+
+1. open application
+
+2. movies list
+
+3. audio list
+
+4. playing option
+
+5. chromecast option
+
+
+
